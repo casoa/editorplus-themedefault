@@ -30,11 +30,11 @@
 }
 
 .edui-default .edui-tablepicker .edui-pickarea {
-    background: url("../images/unhighlighted.gif") repeat;
+    background: url("./images/unhighlighted.gif") repeat;
     height: 220px;
     width: 220px;
 }
 
 .edui-default .edui-tablepicker .edui-pickarea .edui-overlay {
-    background: url("../images/highlighted.gif") repeat;
+    background: url("./images/highlighted.gif") repeat;
 }

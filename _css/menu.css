@@ -10,7 +10,7 @@
 .edui-default .edui-menu-body {
     _width: 150px;
     min-width: 170px;
-    background: url("../images/sparator_v.png") repeat-y 25px;
+    background: url("./images/sparator_v.png") repeat-y 25px;
 }
 
 .edui-default .edui-menuitem-body {
@@ -25,8 +25,7 @@
 .edui-default .edui-menuitem .edui-icon {
     width: 20px !important;
     height: 20px !important;
-    background: url(../images/icons.png) 0 -4000px;
-    background: url(../images/icons.gif) 0 -4000px\9;
+    background: url(./images/icons.png) 0 -4000px;
 }
 
 .edui-default .edui-menuitem .edui-label {
@@ -37,7 +36,7 @@
 }
 
 .edui-default .edui-state-checked .edui-menuitem-body {
-    background: url("../images/icons-all.gif") no-repeat 6px -205px;
+    background: url("./images/icons-all.gif") no-repeat 6px -205px;
 }
 
 .edui-default .edui-state-disabled .edui-menuitem-label {

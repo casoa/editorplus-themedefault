@@ -48,10 +48,10 @@
     height:20px;
 }
 .arrow_down{
-    background: white url('../images/arrow_down.png') no-repeat center;
+    background: white url('./images/arrow_down.png') no-repeat center;
 }
 .arrow_up{
-    background: white url('../images/arrow_up.png') no-repeat center;
+    background: white url('./images/arrow_up.png') no-repeat center;
 }
 /*高级的样式*/
 .edui-colorpicker-adv{
@@ -79,7 +79,7 @@
     left: 0;
     width: 150px;
     height: 150px;
-    background: url("../images/tangram-colorpicker.png") -160px -200px;
+    background: url("./images/tangram-colorpicker.png") -160px -200px;
 }
 .edui-colorpicker-padDot{
     position: absolute;
@@ -88,7 +88,7 @@
     width: 11px;
     height: 11px;
     overflow: hidden;
-    background: url(../images/tangram-colorpicker.png) 0px -200px repeat-x;
+    background: url(./images/tangram-colorpicker.png) 0px -200px repeat-x;
     z-index: 1000;
 
 }
@@ -98,7 +98,7 @@
     top: 13px;
     width: 19px;
     height: 152px;
-    background: url(../images/tangram-colorpicker.png) -179px -12px no-repeat;
+    background: url(./images/tangram-colorpicker.png) -179px -12px no-repeat;
 
 }
 .edui-colorpicker-slider {
